@@ -1,4 +1,4 @@
-# Long-Tail Distribution under Gaussian Mixtures
+# Long-Tail Theory under Gaussian Mixtures
 
 This repository contains the code for the experiments conducted for the article "Long-Tail Theory under Gaussian Mixtures."
 

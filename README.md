@@ -1,16 +1,17 @@
 # Long-Tail Theory under Gaussian Mixtures
 
-This repository contains the code for the experiments conducted for the article "Long-Tail Theory under Gaussian Mixtures."
+This repository contains the code for the experiments conducted for the article ["Long-Tail Theory under Gaussian Mixtures."](https://arxiv.org/abs/2307.10736)
 
 ## Citation
 If you use this code in your research, please cite our paper:
 ```
-@InProceedings{bolatov2023longtail,
-  Title                    = {Long-Tail Theory under Gaussian Mixtures},
-  Author                   = {Arman Bolatov, Maxat Tezekbayev, Igor Melnykov, Artur Pak, Vassilina Nikoulina and Zhenisbek Assylbekov},
-  Booktitle                = {Proceedings of the 26th European Conference on Artificial Intelligence (ECAI)},
-  Year                     = {2023},
-  Language                 = {English},
+@misc{bolatov2023longtail,
+      title={Long-Tail Theory under Gaussian Mixtures}, 
+      author={Arman Bolatov and Maxat Tezekbayev and Igor Melnykov and Artur Pak and Vassilina Nikoulina and Zhenisbek Assylbekov},
+      year={2023},
+      eprint={2307.10736},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 

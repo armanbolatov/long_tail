@@ -5,13 +5,15 @@ This repository contains the code for the experiments conducted for the article 
 ## Citation
 If you use this code in your research, please cite our paper:
 ```
-@misc{bolatov2023longtail,
-      title={Long-Tail Theory under Gaussian Mixtures}, 
-      author={Arman Bolatov and Maxat Tezekbayev and Igor Melnykov and Artur Pak and Vassilina Nikoulina and Zhenisbek Assylbekov},
-      year={2023},
-      eprint={2307.10736},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@incollection{Bolatov2023,
+      doi = {10.3233/faia230260},
+      url = {https://doi.org/10.3233/faia230260},
+      year = {2023},
+      month = sep,
+      publisher = {{IOS} Press},
+      author = {Arman Bolatov and Maxat Tezekbayev and Igor Melnykov and Artur Pak and Vassilina Nikoulina and Zhenisbek Assylbekov},
+      title = {Long-Tail Theory Under Gaussian Mixtures},
+      booktitle = {Frontiers in Artificial Intelligence and Applications}
 }
 ```
 
